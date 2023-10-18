@@ -1,0 +1,405 @@
+<tv>
+ 	<channel id="lvtt0">
+		<display-name>LVTT SPORT 0</display-name>
+	</channel>
+ 	<channel id="lvtt1">
+		<display-name>LVTT SPORT 1</display-name>
+	</channel>
+ 	<channel id="lvtt2">
+		<display-name>LVTT SPORT 2</display-name>
+	</channel>
+ 	<channel id="lvtt3">
+		<display-name>LVTT SPORT 3</display-name>
+	</channel>
+ 	<channel id="lvtt4">
+		<display-name>LVTT SPORT 4</display-name>
+	</channel>
+ 	<channel id="lvtt5">
+		<display-name>LVTT SPORT 5</display-name>
+	</channel>
+ 	<channel id="lvtt6">
+		<display-name>LVTT SPORT 6</display-name>
+	</channel>
+ 	<channel id="lvtt7">
+		<display-name>LVTT SPORT 7</display-name>
+	</channel>
+ 	<channel id="lvtt8">
+		<display-name>LVTT SPORT 8</display-name>
+	</channel>
+ 	<channel id="lvtt9">
+		<display-name>LVTT SPORT 9</display-name>
+	</channel>
+ 	<channel id="lvtt10">
+		<display-name>LVTT SPORT 10</display-name>
+	</channel>
+	<programme channel="lvtt0" start="20231021183000 +0700" stop="20231021203000 +0700">
+		<title lang="vi">EPL: Liverpool - Everton<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt0" start="20231021210000 +0700" stop="20231021230000 +0700">
+		<title lang="vi">EPL: Manchester City - Brighton<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt0" start="20231021233000 +0700" stop="20231022013000 +0700">
+		<title lang="vi">EPL: Chelsea - Arsenal<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt0" start="20231022020000 +0700" stop="20231022040000 +0700">
+		<title lang="vi">EPL: Sheffield United - Manchester United<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt0" start="20231022040000 +0700" stop="20231022190000 +0700">
+		<title lang="vi">Sự kiện tiếp theo: 19h00 tối nay<title>
+		<desc lang="vi">Lịch phát sóng xem trên facebook LVTT Entertainment</desc>
+	</programme>
+	<programme channel="lvtt0" start="20231022190000 +0700" stop="20231022210000 +0700">
+		<title lang="vi">La Liga: Las Palmas - Rayo Vallecano<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt0" start="20231022211500 +0700" stop="20231022233000 +0700">
+		<title lang="vi">La Liga: Girona - Almeria<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt0" start="20231022233000 +0700" stop="20231023013000 +0700">
+		<title lang="vi">La Liga: Villareal - Alaves<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt0" start="20231023023000 +0700" stop="20231023040000 +0700">
+		<title lang="vi">La Liga: Barcelona - Athletic Bilbao<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt0" start="20231023043000 +0700" stop="20231024000000 +0700">
+		<title lang="vi">Sự kiện tiếp theo: 23h45 24 tháng 10<title>
+		<desc lang="vi">Lịch phát sóng xem trên facebook LVTT Entertainment</desc>
+	</programme>
+	<programme channel="lvtt0" start="20231024000000 +0700" stop="20231024234500 +0700">
+		<title lang="vi">Sự kiện tiếp theo: 23h45 tối nay<title>
+		<desc lang="vi">Lịch phát sóng xem trên facebook LVTT Entertainment</desc>
+	</programme>
+	<programme channel="lvtt1" start="20231021183000 +0700" stop="20231021203000 +0700">
+		<title lang="en">EPL: Liverpool - Everton<title>
+		<desc lang="en">English</desc>
+	</programme>
+	<programme channel="lvtt1" start="20231021210000 +0700" stop="20231021230000 +0700">
+		<title lang="en">EPL: Manchester City - Brighton<title>
+		<desc lang="en">Thai language</desc>
+	</programme>
+	<programme channel="lvtt1" start="20231021233000 +0700" stop="20231022013000 +0700">
+		<title lang="en">EPL: Chelsea - Arsenal<title>
+		<desc lang="en">English</desc>
+	</programme>
+	<programme channel="lvtt1" start="20231022020000 +0700" stop="20231022040000 +0700">
+		<title lang="en">EPL: Sheffield United - Manchester United<title>
+		<desc lang="en">English</desc>
+	<programme channel="lvtt1" start="20231022040000 +0700" stop="20231022173000 +0700">
+		<title lang="vi">Sự kiện tiếp theo: 17h30 tối nay<title>
+		<desc lang="vi">Lịch phát sóng xem trên facebook LVTT Entertainment</desc>
+	</programme>
+	<programme channel="lvtt1" start="20231022173000 +0700" stop="20231022200000 +0700">
+		<title lang="vi">Serie A: Roma - Monza<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt1" start="20231022200000 +0700" stop="20231022223000 +0700">
+		<title lang="vi">Serie A: Bologna - Frosinone<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt1" start="20231022223000 +0700" stop="20231023003000 +0700">
+		<title lang="vi">EPL: Aston Villa - West Ham<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt1" start="20231023003000 +0700" stop="20231024000000 +0700">
+		<title lang="vi">Sự kiện tiếp theo: 23h45 24 tháng 10<title>
+		<desc lang="vi">Lịch phát sóng xem trên facebook LVTT Entertainment</desc>
+	</programme>
+	<programme channel="lvtt1" start="20231024000000 +0700" stop="20231024234500 +0700">
+		<title lang="vi">Sự kiện tiếp theo: 23h45 tối nay<title>
+		<desc lang="vi">Lịch phát sóng xem trên facebook LVTT Entertainment</desc>
+	</programme>
+	<programme channel="lvtt2" start="20231021190000 +0700" stop="20231021220000 +0700">
+		<title lang="vi">La Liga: Real Sociedad - Mallorca<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt2" start="20231021220000 +0700" stop="20231021235959 +0700">
+		<title lang="vi">Ligue 1: PSG - Strasbourg<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt2" start="20231022000000 +0700" stop="20231022220000 +0700">
+		<title lang="vi">Sự kiện tiếp theo lúc 22h tối nay<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt2" start="20231022220000 +0700" stop="20231022235959 +0700">
+		<title lang="vi">Ligue 1: Monaco - Metz<title>
+		<desc lang="vi">Tiếng Việt</desc>
+	</programme>
+	<programme channel="lvtt2" start="20231023000000 +0700" stop="20231024000000 +0700">
+		<title lang="en">Next event: 11.45pm Oct 24 2023 (UTC+7)<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt3" start="20231021040000 +0700" stop="20231021200000 +0700">
+		<title lang="en">Next event at 8pm tonight (UTC+7)<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt3" start="20231021200000 +0700" stop="20231021230000 +0700">
+		<title lang="en">Serie A: Verona - Napoli<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt3" start="20231021230000 +0700" stop="20231023013000 +0700">
+		<title lang="en">Serie A: Torino - Inter Milan<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt3" start="20231022014500 +0700" stop="20231022040000 +0700">
+		<title lang="en">EPL: Serie A: Sassuolo - Lazio<title>
+		<desc lang="en">Russian</desc>
+	<programme channel="lvtt3" start="20231022040000 +0700" stop="20231022173000 +0700">
+		<title lang="en">Next event at 5.30pm today (UTC+7)<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt3" start="20231022173000 +0700" stop="20231022200000 +0700">
+		<title lang="en">Serie A: Roma - Monza<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt3" start="20231022200000 +0700" stop="20231022220000 +0700">
+		<title lang="en">Serie A: Bologna - Frosinone<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt3" start="20231022230000 +0700" stop="20231023010000 +0700">
+		<title lang="en">23h00: Serie A: Atalanta - Genoa<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt3" start="20231023014500 +0700" stop="20231023040000 +0700">
+		<title lang="en">Serie A: AC Milan - Juventus<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt3" start="20231023040000 +0700" stop="20231024000000 +0700">
+		<title lang="en">No schedule available<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt4" start="20231021180000 +0700" stop="20231021203000 +0700">
+		<title lang="en">Bundesliga 2: Hamburger SV - Furth<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt4" start="20231021203000 +0700" stop="20231021230000 +0700">
+		<title lang="en">Bundesliga GOAL ARENA Multi-View<title>
+		<desc lang="en">Bundesliga's whip-around live. Up-to-date live footages of all goals, cards, highlighted chances from all 2.30pm Saturday Bundesliga games. Russian language.</desc>
+	</programme>
+	<programme channel="lvtt4" start="20231021233000 +0700" stop="20231022013000 +0700">
+		<title lang="en">Bundesliga: Mainz 05 - Bayern Munich<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt4" start="20231022040000 +0700" stop="20231022183000 +0700">
+		<title lang="en">Next event at 6.30pm today (UTC+7)<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt4" start="20231022183000 +0700" stop="20231022203000 +0700">
+		<title lang="en">Bundesliga 2: Hansa Rostock - Holstein Kiel<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt4" start="20231022203000 +0700" stop="20231022230000 +0700">
+		<title lang="en">Bundesliga: FC Koln - M'Gladbach<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt4" start="20231022223000 +0700" stop="20231022013000 +0700">
+		<title lang="en">Bundesliga: Heidenheim - Augsburg<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt5" start="20231021183000 +0700" stop="20231021203000 +0700">
+		<title lang="en">EPL: Liverpool - Everton<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt5" start="20231021210000 +0700" stop="20231021230000 +0700">
+		<title lang="en">EPL: Manchester City - Brighton<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt5" start="20231021233000 +0700" stop="20231022013000 +0700">
+		<title lang="en">EPL: Chelsea - Arsenal<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt5" start="20231022020000 +0700" stop="20231022040000 +0700">
+		<title lang="en">EPL: Sheffield United - Manchester United<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt5" start="20231022040000 +0700" stop="20231022173000 +0700">
+		<title lang="en">Next event at 7pm tonight (UTC+7)<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt5" start="20231022173000 +0700" stop="20231022200000 +0700">
+		<title lang="en">Serie A: Roma - Monza<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt5" start="20231022200000 +0700" stop="20231022223000 +0700">
+		<title lang="en">Serie A: Bologna - Frosinone<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt5" start="20231022223000 +0700" stop="20231023003000 +0700">
+		<title lang="en">EPL: Aston Villa - West Ham<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt5" start="20231023014500 +0700" stop="20231023040000 +0700">
+		<title lang="en">Serie A: AC Milan - Juventus<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt5" start="20231023040000 +0700" stop="20231024000000 +0700">
+		<title lang="en">No schedule available<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt6" start="20231021040000 +0700" stop="20231021200000 +0700">
+		<title lang="en">Next event at 8pm tonight (UTC+7)<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt6" start="20231021200000 +0700" stop="20231021233000 +0700">
+		<title lang="en">Serie A: Verona - Napoli<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt6" start="20231021233000 +0700" stop="20231023013000 +0700">
+		<title lang="en">La Liga: Sevilla - Real Madrid<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt6" start="20231023020000 +0700" stop="20231023040000 +0700">
+		<title lang="en">La Liga: Cadiz - Atletico Madrid<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt6" start="20231022040000 +0700" stop="20231022190000 +0700">
+		<title lang="en">Next event at 7pm tonight (UTC+7)<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt6" start="20231022190000 +0700" stop="20231022210000 +0700">
+		<title lang="en">La Liga: Las Palmas - Rayo Vallecano<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt6" start="20231022211500 +0700" stop="20231022233000 +0700">
+		<title lang="en">La Liga: Girona - Almeria<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt6" start="20231022233000 +0700" stop="20231023013000 +0700">
+		<title lang="en">La Liga: Villareal - Alaves<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt6" start="20231023020000 +0700" stop="20231023040000 +0700">
+		<title lang="en">La Liga: Barcelona - Athletic Bilbao<title>
+		<desc lang="en">Russian</desc>
+	</programme>
+	<programme channel="lvtt6" start="20231023040000 +0700" stop="20231024000000 +0700">
+		<title lang="en">No schedule available<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt7" start="20231021180000 +0700" stop="20231021203000 +0700">
+		<title lang="en">EFL Championship: Preston North End - Millwall<title>
+		<desc lang="en">Ukraine</desc>
+	</programme>
+	<programme channel="lvtt7" start="20231021203000 +0700" stop="20231021230000 +0700">
+		<title lang="en">Bundesliga: Wolfsburg - Leverkusen<title>
+		<desc lang="en">Ukraine</desc>
+	</programme>
+	<programme channel="lvtt7" start="20231021233000 +0700" stop="20231022013000 +0700">
+		<title lang="en">Bundesliga: Mainz 05 - Bayern Munich<title>
+		<desc lang="en">Ukraine</desc>
+	</programme>
+	<programme channel="lvtt7" start="20231022040000 +0700" stop="20231022183000 +0700">
+		<title lang="en">Next event at 6.30pm today (UTC+7)<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt7" start="20231022183000 +0700" stop="20231022203000 +0700">
+		<title lang="en">Bundesliga 2: Hansa Rostock - Holstein Kiel<title>
+		<desc lang="en">Ukraine</desc>
+	</programme>
+	<programme channel="lvtt7" start="20231022203000 +0700" stop="20231022230000 +0700">
+		<title lang="en">Bundesliga: FC Koln - M'Gladbach<title>
+		<desc lang="en">Ukraine</desc>
+	</programme>
+	<programme channel="lvtt7" start="20231022223000 +0700" stop="20231022013000 +0700">
+		<title lang="en">Bundesliga: Heidenheim - Augsburg<title>
+		<desc lang="en">Ukraine</desc>
+	</programme>
+	<programme channel="lvtt7" start="20231022020000 +0700" stop="20231022033000 +0700">
+		<title lang="en">Formula 1 Grand Prix USA<title>
+		<desc lang="en">Ukraine</desc>
+	</programme>
+	<programme channel="lvtt7" start="20231022033000 +0700" stop="20231024000000 +0700">
+		<title lang="en">No schedule available<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt8" start="20231021180000 +0700" stop="20231021203000 +0700">
+		<title lang="en">EFL Championship: Preston North End - Millwall<title>
+		<desc lang="en">Kazakh</desc>
+	</programme>
+	<programme channel="lvtt8" start="20231021210000 +0700" stop="20231021230000 +0700">
+		<title lang="en">EPL: Newcastle - Crystal Palace<title>
+		<desc lang="en">Kazakh</desc>
+	</programme>
+	<programme channel="lvtt8" start="20231021233000 +0700" stop="20231022013000 +0700">
+		<title lang="en">Bundesliga: Mainz 05 - Bayern Munich<title>
+		<desc lang="en">Kazakh</desc>
+	</programme>
+	<programme channel="lvtt8" start="20231023020000 +0700" stop="20231023040000 +0700">
+		<title lang="en">Ligue 1: Nice - Marseille<title>
+		<desc lang="en">Kazakh</desc>
+	</programme>
+	<programme channel="lvtt8" start="20231022040000 +0700" stop="20231022203000 +0700">
+		<title lang="en">Next event at 8.30pm tonight (UTC+7)<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt8" start="20231022203000 +0700" stop="20231022230000 +0700">
+		<title lang="en">Bundesliga: FC Koln - M'Gladbach<title>
+		<desc lang="en">Kazakh</desc>
+	</programme>
+	<programme channel="lvtt8" start="20231022230000 +0700" stop="20231023013000 +0700">
+		<title lang="en">Serie A: Atalanta - Genoa<title>
+		<desc lang="en">Kazakh</desc>
+	</programme>
+	<programme channel="lvtt8" start="20231023020000 +0700" stop="20231023040000 +0700">
+		<title lang="en">La Liga: Barcelona - Athletic Bilbao<title>
+		<desc lang="en">Kazakh</desc>
+	</programme>
+	<programme channel="lvtt9" start="20231021203000 +0700" stop="20231021233000 +0700">
+		<title lang="en">Bundesliga: Stuttgart - Union Berlin<title>
+		<desc lang="en">Czech</desc>
+	</programme>
+	<programme channel="lvtt9" start="20231021233000 +0700" stop="20231022013000 +0700">
+		<title lang="en">Bundesliga: Mainz 05 - Bayern Munich<title>
+		<desc lang="en">Czech</desc>
+	</programme>
+	<programme channel="lvtt9" start="20231022040000 +0700" stop="20231022190000 +0700">
+		<title lang="en">Next event at 7pm tonight (UTC+7)<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt9" start="20231022190000 +0700" stop="20231022210000 +0700">
+		<title lang="en">La Liga: Las Palmas - Rayo Vallecano<title>
+		<desc lang="en">Czech</desc>
+	</programme>
+	<programme channel="lvtt9" start="20231022211500 +0700" stop="20231022233000 +0700">
+		<title lang="en">La Liga: Girona - Almeria<title>
+		<desc lang="en">Czech</desc>
+	</programme>
+	<programme channel="lvtt9" start="20231022233000 +0700" stop="20231023013000 +0700">
+		<title lang="en">La Liga: Villareal - Alaves<title>
+		<desc lang="en">Czech</desc>
+	</programme>
+	<programme channel="lvtt9" start="20231023023000 +0700" stop="20231023040000 +0700">
+		<title lang="en">La Liga: Barcelona - Athletic Bilbao<title>
+		<desc lang="en">Czech</desc>
+	</programme>
+	<programme channel="lvtt9" start="20231023040000 +0700" stop="20231024000000 +0700">
+		<title lang="en">No schedule available<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt10" start="20231021203000 +0700" stop="20231021233000 +0700">
+		<title lang="en">Bundesliga: Stuttgart - Union Berlin<title>
+		<desc lang="en">English</desc>
+	</programme>
+	<programme channel="lvtt10" start="20231021233000 +0700" stop="20231022013000 +0700">
+		<title lang="en">Bundesliga: Mainz 05 - Bayern Munich<title>
+		<desc lang="en">English</desc>
+	</programme>
+	<programme channel="lvtt10" start="20231022013000 +0700" stop="20231022180000 +0700">
+		<title lang="en">Next event at 6pm tonight (UTC+7)<title>
+		<desc lang="en">Follow our Facebook: LVTT Entertainment for the schedule</desc>
+	</programme>
+	<programme channel="lvtt10" start="20231022180000 +0700" stop="20231022220000 +0700">
+		<title lang="en">Ligue 1: Lorient - Rennes<title>
+		<desc lang="en">English</desc>
+	</programme>
+	<programme channel="lvtt10" start="20231022220000 +0700" stop="20231022235959 +0700">
+		<title lang="en">Ligue 1: Monaco - Metz<title>
+		<desc lang="en">English</desc>
+	</programme>
+</tv>
